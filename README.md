@@ -2,9 +2,6 @@
 
 ### A budding Full Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwini-beaula&label=Profile views&color=0e75b6&style=flat" alt="ashwini-beaula" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwini-beaula" alt="ashwini-beaula" /></a> </p>
 
 - 🔭 I'm currently working on **🔭 I'm currently working on building scalable full stack applications and crafting intuitive user experiences with modern web technologies.**
 
