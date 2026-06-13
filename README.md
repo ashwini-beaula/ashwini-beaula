@@ -3,23 +3,23 @@
 ### A budding Full Stack Developer
 
 
-- 🔭 I'm currently working on **🔭 I'm currently working on building scalable full stack applications and crafting intuitive user experiences with modern web technologies.**
+- 🔭 I'm currently working on **🔭 building scalable full stack applications and crafting intuitive user experiences with modern web technologies.**
 
-- 🌱 I'm currently learning **🌱 I'm currently learning advanced Full Stack Development, Prompt Engineering, and modern web application architecture.**
+- 🌱 I'm currently learning **🌱 advanced Full Stack Development, Prompt Engineering, and modern web application architecture.**
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 🤝 I'm looking for help with **🤝 I'm looking for help with exploring new technologies, contributing to open source, and enhancing my full stack development skills.**
+- 🤝 I'm looking for help with **🤝 exploring new technologies, contributing to open source, and enhancing my full stack development skills.**
 
-- 💬 Ask me about **💬 Ask me about Full Stack Development, React.js, Next.js, UI/UX, and Prompt Engineering.**
+- 💬 Ask me about **💬 Full Stack Development, React.js, Next.js, UI/UX, and Prompt Engineering.**
 
 - 📫 How to reach me **ashwinibeaula@gmail.com**
 
 - ⚡ Fun fact **⚡ Fun fact: I believe every great project starts with a simple idea and a cup of coffee. ☕🚀**
 
-- 👨‍💻 All of my projects are available at **[https://ashwinibeaula.vercel.app](https://ashwinibeaula.vercel.app)**
+- 👨‍💻 All of my projects are available at **[ashwinibeaula.vercel.app](https://ashwinibeaula.vercel.app)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1oSWrthBi7j7NAKMqnjgwQryoL9QZVofv/view?usp=sharing](https://drive.google.com/file/d/1oSWrthBi7j7NAKMqnjgwQryoL9QZVofv/view?usp=sharing)**
+- 📄 Know about my experiences **[AshwiniBeaulaS Resume](https://drive.google.com/file/d/1oSWrthBi7j7NAKMqnjgwQryoL9QZVofv/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
