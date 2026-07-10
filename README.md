@@ -69,3 +69,63 @@ Co-Founder @ DANK Technologies | Aspiring Full Stack Developer Developer | React
 <img src="https://img.shields.io/badge/Antigravity-A855F7?style=for-the-badge&logo=apacherocketmq&logoColor=black" />
 </p>
 
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashwini-beaula&theme=gruvbox&hide_border=false" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+[![Dharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwini-beaula&theme=gruvbox&hide_border=true&radius=16)](https://github.com/ashwini-beaula)
+
+</div>
+
+---
+
+# 🏆 GitHub Level & Contribution Stats
+
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ashwini-beaula?cardType=level&theme=gruvbox&preferLogin=false" />
+</div>
+
+---
+
+# 🧠 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashwini-beaula&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ashwini-beaula/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:ashwinibeaula@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+    
+<img src="https://komarev.com/ghpvc/?username=ashwini-beaula&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
