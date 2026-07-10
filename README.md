@@ -24,3 +24,48 @@ Co-Founder @ DANK Technologies | Aspiring Full Stack Developer Developer | React
 - 🌱 Continuously learning new technologies and best practices to strengthen my full stack development skills and build impactful real-world applications.
 
 ---
+
+## ⚒️ Technical Expertise
+
+### 🚀 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,java,python,mysql" />
+</p>
+
+---
+
+### ⚛️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,next,tailwind,html,css,nodejs" />
+</p>
+
+---
+
+### 🗄️ Databases & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,docker,vercel" />
+</p>
+
+---
+
+### 🧠 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Antigravity-A855F7?style=for-the-badge&logo=apacherocketmq&logoColor=black" />
+</p>
+
